@@ -10,3 +10,6 @@ body {
 #action{
 	background-color: green;
 }
+#hero {
+	justify-content: center;
+}
