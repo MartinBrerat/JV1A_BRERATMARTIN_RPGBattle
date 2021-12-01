@@ -1,0 +1,12 @@
+body {
+	background-image: url("https://opengameart.org/sites/default/files/styles/medium/public/screenshot_tileset.png");
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#titre {
+	background-color: green;	
+}		
+#action{
+	background-color: green;
+}
